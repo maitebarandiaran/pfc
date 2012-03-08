@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\PFC\PFC\PFC.nunit" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-02-01" time="16:29:20">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.3625" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\Archivos de programa\NUnit 2.5.10\bin\net-2.0" machine-name="ESTE94-C3272000" user="alumno" user-domain="ESTE94-C3272000" />
+  <culture-info current-culture="es-ES" current-uiculture="es-ES" />
+  <test-suite type="Project" name="C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\PFC\PFC\PFC.nunit" executed="True" result="Failure" success="False" time="0.344" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\PFC\PFC\..\Tests\bin\Debug\Tests.dll" executed="True" result="Failure" success="False" time="0.328" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="0.328" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="BibliotecaTest" executed="True" result="Failure" success="False" time="0.328" asserts="0">
+                <results>
+                  <test-case name="Tests.BibliotecaTest.crearBibliotecaVacia" executed="True" result="Failure" success="False" time="0.188" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Expected: True
+  But was:  False
+]]></message>
+                      <stack-trace><![CDATA[en Tests.BibliotecaTest.crearBibliotecaVacia() en C:\Documents and Settings\alumno\Mis documentos\Visual Studio 2008\Projects\PFC\Tests\BibliotecaTest.cs:línea 17
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

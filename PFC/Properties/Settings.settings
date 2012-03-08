@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="reproductorDeMusica.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="rutaCanciones" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Documents and Settings\\alumno\\Mis documentos\\Mi música\\(2002) Johnny Cash - American IV-The Man Comes Around</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
